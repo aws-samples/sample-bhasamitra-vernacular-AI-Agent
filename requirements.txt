@@ -1,0 +1,7 @@
+streamlit==1.45.0
+boto3==1.38.8
+pydub==0.25.1
+streamlit-audiorecorder==0.0.6
+python-dotenv==1.1.1
+requests>=2.33.0
+audioop-lts==0.2.1
