@@ -246,7 +246,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For issues and questions:
-1. Check the troubleshooting section
-2. Review AWS Bedrock documentation
-3. Check SARVAM AI API documentation
-4. Open an issue in the repository
+1. Review AWS Bedrock documentation
+2. Check SARVAM AI API documentation
+3. Open an issue in the repository
