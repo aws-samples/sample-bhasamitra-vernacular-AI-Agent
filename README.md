@@ -1,10 +1,11 @@
 # Multilingual Voice Chatbot with AWS Bedrock and SARVAM AI
 
-A Streamlit-based multilingual voice chatbot that integrates AWS Bedrock's Claude 3 Sonnet model with SARVAM AI's speech-to-text capabilities. The application supports voice input, document uploads, image processing, and specialized government scheme information retrieval.
+A Streamlit-based multilingual voice chatbot that integrates AWS Bedrock's Claude 3 Sonnet model with SARVAM AI's speech-to-text and text-to-speech capabilities. The application supports voice input, document uploads, image processing, and specialized government scheme information retrieval.
 
 ## Features
 
 - **Voice Input**: Record audio messages transcribed using SARVAM AI's multilingual speech-to-text
+- **Voice Output**: Responds with natural-sounding speech in multiple languages
 - **Text Chat**: Traditional text-based conversation interface
 - **Document Upload**: Support for PDF, DOCX, TXT, CSV, and JSON files (up to 5 documents, 4.5MB each)
 - **Image Upload**: Support for PNG, JPG, JPEG, GIF, BMP, WEBP formats (up to 20 images, 3.75MB each)
